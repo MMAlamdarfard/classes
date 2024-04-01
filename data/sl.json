@@ -1,0 +1,63 @@
+
+{
+    "allClasses" : [
+      {
+        "class":"اقتصاد مهندسی",
+        "group":1,
+        "lessonNumber":"210111",
+        "unit":3,
+        "teacher":"سعید دهنوی آرانی",
+        "firstSession":"یکشنبه ساعت 18",
+        "secondSession":"سه شنبه ساعت 18"
+      },
+      {
+        "class":"سیگنال‌ها و سیستم‌ها",
+        "group":1,
+        "lessonNumber":"210120",
+        "unit":3,
+        "teacher":"محمدرضا ذوقی ",
+        "firstSession":"شنبه ساعت 16",
+        "secondSession":"دوشنبه ساعت 16"
+      },
+      {
+        "class":"سیگنال‌ها و سیستم‌ها",
+        "group":1,
+        "lessonNumber":"210120",
+        "unit":3,
+        "teacher":"محمدرضا ذوقی ",
+        "firstSession":"شنبه ساعت 16",
+        "secondSession":"دوشنبه ساعت 16"
+      },
+      {
+        "class":"سیستم‌های کنترل خطی",
+        "group":1,
+        "lessonNumber":"210121",
+        "unit":3,
+        "teacher":"مجید حاجتی پور",
+        "firstSession":"شنبه ساعت 16",
+        "secondSession":"دو شنبه ساعت 16"
+      },
+      {
+        "class":"کارگاه برق",
+        "group":1,
+        "lessonNumber":"210114",
+        "unit":1,
+        "teacher":"محمد مهدی آقایی زاده",
+        "firstSession":"شنبه ساعت 12:30" 
+      },
+      {
+        "class":"کارگاه برق",
+        "group":1,
+        "lessonNumber":"210114",
+        "unit":1,
+        "teacher":"محمد مهدی آقایی زاده",
+        "firstSession":"چهارشنبه ساعت 12:30" 
+      }
+    
+    
+    ]
+  
+  
+  }
+
+  

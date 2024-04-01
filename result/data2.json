@@ -1,0 +1,2105 @@
+[
+  {
+    "date": "1402/11/14",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/11/15",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "یک‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/11/16",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/11/17",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/11/21",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/11/23",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/11/24",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/11/28",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/11/29",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "یک‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/11/30",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/12/01",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/12/05",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/12/07",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/12/08",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/12/12",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/12/13",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "یک‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/12/14",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/12/15",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/12/19",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/12/20",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "یک‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/12/21",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/12/22",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/12/26",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/12/27",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "یک‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1402/12/28",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/01/14",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/01/18",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/01/19",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "یک‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/01/20",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/01/21",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/01/25",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/01/26",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "یک‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/01/27",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/01/28",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/01",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/02",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "یک‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/03",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/04",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/08",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/09",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "یک‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/10",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/11",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/15",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/17",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/18",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/22",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/23",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "یک‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/24",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/25",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/29",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/30",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "یک‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/02/31",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/03/01",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/03/05",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/03/06",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "یک‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/03/07",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "دوشنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/03/08",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/03/12",
+    "classes": [
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیگنال‌ها و سیستم‌ها",
+        "group": 1,
+        "lessonNumber": "210120",
+        "unit": 3,
+        "teacher": "محمدرضا ذوقی ",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دوشنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "16:00",
+        "end": "17:30",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "سیستم‌های کنترل خطی",
+        "group": 1,
+        "lessonNumber": "210121",
+        "unit": 3,
+        "teacher": "مجید حاجتی پور",
+        "firstSession": "شنبه ساعت 16",
+        "secondSession": "دو شنبه ساعت 16",
+        "student": {
+          "absenceList": []
+        }
+      },
+      {
+        "start": "12:30",
+        "end": "14:00",
+        "weekDay": "شنبه",
+        "type": 0,
+        "description": {},
+        "class": "کارگاه برق",
+        "group": 1,
+        "lessonNumber": "210114",
+        "unit": 1,
+        "teacher": "محمد مهدی آقایی زاده",
+        "firstSession": "شنبه ساعت 12:30",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/03/13",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "یک‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  },
+  {
+    "date": "1403/03/15",
+    "classes": [
+      {
+        "start": "18:00",
+        "end": "19:30",
+        "weekDay": "سه‌شنبه",
+        "type": 0,
+        "description": {},
+        "class": "اقتصاد مهندسی",
+        "group": 1,
+        "lessonNumber": "210111",
+        "unit": 3,
+        "teacher": "سعید دهنوی آرانی",
+        "firstSession": "یکشنبه ساعت 18",
+        "secondSession": "سه شنبه ساعت 18",
+        "student": {
+          "absenceList": []
+        }
+      }
+    ]
+  }
+]
